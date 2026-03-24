@@ -11,6 +11,12 @@
 确保已安装 Python 3.8+  
 下载地址：https://www.python.org/downloads/
 
+## 克隆 / 下载项目
+```bash
+# 克隆项目（如已下载可跳过）
+git clone https://github.com/python-yqw/FastAPI-project.git
+cd FastAPI-projec
+
 ## 安装依赖
 pip install -r requirements.txt
 
