@@ -7,11 +7,11 @@
 - 自动生成 API 文档
 - 可直接部署运行
 
-## 一、环境准备
+## 环境准备
 确保已安装 Python 3.8+  
 下载地址：https://www.python.org/downloads/
 
-##安装依赖
+## 安装依赖
 pip install -r requirements.txt
 
 ## 技术栈
