@@ -11,7 +11,7 @@
 确保已安装 Python 3.8+  
 下载地址：https://www.python.org/downloads/
 
-##二、安装依赖
+##安装依赖
 pip install -r requirements.txt
 
 ## 技术栈
